@@ -1,3 +1,3 @@
 # cloudfunction
 
-GCF testing via git webhook slack notification.
+GCF testing via git webhook.
