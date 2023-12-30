@@ -1,3 +1,3 @@
 # cloudfunction
 
-GCF testing via webhook
+GCF testing via git webhook
